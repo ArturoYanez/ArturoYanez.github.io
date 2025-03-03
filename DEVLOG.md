@@ -3,6 +3,7 @@
 ## 📑 Índice Rápido  
 - [Semana 1: Organización y Primeros Pasos](#semana-1---feb-2025-organización-y-primeros-pasos)  
 - [Semana 2: De la Teoría a la Práctica](#semana-2---feb-2025-de-la-teoría-a-la-práctica)  
+- [Semana 3: Resiliencia Operativa](#semana-3---feb-2025-resiliencia-operativa)
 
 ---
 
@@ -76,13 +77,60 @@
 
 ---
 
+## Semana 3 - Feb 2025: Resiliencia Operativa  
+
+### Hackeo de Viralidad en TikTok  
+- **Desafío:** Generar engagement sin hardware profesional  
+- **Solución:**  
+  - Videos tipo "Code Snippets de Supervivencia" (15-30s)  
+  - Hook: *"Si este video supera 1k views → Script gratis"*  
+- **Resultado:**  
+  - 758 views totales (+128% vs semana anterior)  
+  - 27 nuevos seguidores técnicos  
+  - [Video Destacado](https://tiktok.com/@mobile.code.warrior/...)  
+
+### Configuración de GitHub como CV Táctico  
+- **Desafío:** Atraer colaboraciones sin portfolio tradicional  
+- **Solución:**  
+  - Repositorio "Mobile2Cyber" con:  
+    - Diario técnico en README.md  
+    - Roadmap público hacia la laptop  
+- **Resultado:**  
+  - 27 clones del repositorio (21 únicos)  
+  - Primer sponsor ($5/mes) obtenido via botón GitHub Sponsor  
+
+### Lección Dura en LinkedIn  
+- **Error Estratégico:** Contenido genérico vs técnico  
+  - 53 impresiones (solo 3.5% engagement)  
+- **Corrección Inmediata:**  
+  - Reemplazo de posts motivacionales por casos de estudio técnicos  
+  - Ej: *"Cómo detecté X vulnerabilidad desde mi móvil"*  
+
+---
+
+## 💡 Lecciones Maestras Actualizadas  
+1. **Ley del Hardware Limitado:** "Menos plugins = más alcance orgánico"  
+2. **Economía de la Atención Técnica:**  
+   - 15s en TikTok > 10min en LinkedIn  
+   - Hashtags > #ResilienceHacking generan 2.8x más shares  
+3. **Regla GitHub:** "1 clon = 1 voto de confianza técnica"  
+
+---
+
 ## 🚀 ¿Qué Sigue?  
-- **Live Coding:** Probar la posibilidad de hacer envívo configurando Neo-vim en Termux → [Siguelo aquí](https://www.tiktok.com/@mobile.code.warrior )
-- **Tu Voz Cuenta:** [Vota por el próximo proyecto](https://github.com/ArturoYanez/ArturoYanez.github.io/discussions/1#discussion-8001078)  
-  - Opciones: CLI para AWS desde móvil vs. Convertidor Markdown a PDF  
-- **Sígueme:** [TikTok](https://www.tiktok.com/@mobile.code.warrior) | [GitHub](https://github.com/ArturoYanez) | [LinkedIn](https://www.linkedin.com/in/arturoy%C3%A1nez)  
+- **Reto ARP Scanner:**  
+  > *"100 clones en GitHub → Libero script de escaneo de red móvil"*  
+  - [Únete al reto](https://github.com/ArturoYanez/Mobile2Cyber)  
+
+- **Depuración Pública:**  
+  - Lives en TikTok debuggeando código móvil en tiempo real  
+  - [Agenda aquí](https://calendly.com/mobilecodewarrior/debug-sessions)  
+
+- **Pivote Estratégico:**  
+  - Instagram pausado indefinidamente  
+  - Recursos concentrados en TikTok/GitHub  
 
 ---
 
 **Autor**: ArturoYanez - Mobile Code Warrior  
-**Última Actualización**: 20 Feb 2025  
+**Última Actualización**: 27 Feb 2025  
