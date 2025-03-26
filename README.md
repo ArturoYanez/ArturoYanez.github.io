@@ -20,3 +20,8 @@ Soy Arturo Yánez, un ingeniero en computación apasionado por el desarrollo mó
 
 ## 📖 Diario de Desarrollo  
    Sígueme en mi viaje técnico: [DEVLOG.md](DEVLOG.md)
+
+## 📚 Últimos Posts  
+{% for post in site.posts limit:3 %}  
+- [{{ post.title }}]({{ post.url }})  
+{% endfor %}
