@@ -16,7 +16,6 @@
 
 ## => Site Settings
 ##############################
-<<<<<<< HEAD
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 
@@ -24,40 +23,25 @@ url     : arturoyanez.github.io # the base hostname & protocol for your site e.g
 baseurl :  # does not include hostname
 title   : Arturo Yánez - Mobile Code Warrior
 description: > # this means to ignore newlines until "Language & timezone"
-
   Building enterprise-grade tools from a $100 Android device and 1000% of effort.
-=======
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : Your Site Title
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
->>>>>>> 9f199804b57cf4974c8fd27c224b4256f5ad42d8
 
 
 ## => Language and Timezone
 ##############################
-<<<<<<< HEAD
 lang: es # the language of your site, default as "en"
-timezone: VE # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
-=======
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
->>>>>>> 9f199804b57cf4974c8fd27c224b4256f5ad42d8
+timezone: America/Caracas # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  name      : Arturo .W .J Yanez Rivas
+  url       : arturoyanez.github.io
+  avatar    : https://i.postimg.cc/C5Js8j3z/Leonardo-Phoenix-10-Create-a-modern-and-minimalist-cyberpunkst-2.jpg
+  bio       : Soy un programador sin recursos, Venezolano y con una mente brillante como unica herramienta en busca de labrarse un camino en el mundo IT Global con ayuda de mi resilencia y un dispositivo movil antiguo.
+  email     : Arturo_w_0@hotmail.com
+  facebook  : mobilecodewarrior # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
