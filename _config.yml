@@ -19,9 +19,9 @@
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 
-url     : arturoyanez.github..io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : arturoyanez.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl :  # does not include hostname
-title   : Mobile Code Warrior
+title   : Arturo Yánez - Mobile Code Warrior
 description: > # this means to ignore newlines until "Language & timezone"
 
   Building enterprise-grade tools from a $100 Android device and 1000% of effort.
